@@ -1,0 +1,316 @@
+<mjml>
+  <mj-head>
+    <mj-title>Мой дед был охотником</mj-title>
+    <mj-preview>Мой дед был охотником</mj-preview>
+
+    <mj-style>
+      .list { padding-top: 0; padding-left: 18px; } .list__item { padding-bottom: 8px; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body width="640px" background-color="#ebebeb">
+    <mj-section background-color="#F24D48" padding="6px"></mj-section>
+
+    <mj-section background-color="#202549" padding-top="64px" padding-bottom="64px">
+      <mj-column>
+        <mj-text align="center" font-size="32px" color="#ffffff" font-family="arial" font-weight="700"
+          >🍖 Мой дед был охотником</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-top="32px" padding-bottom="0px">
+      <mj-column>
+        <mj-text
+          font-size="16px"
+          color="#000000"
+          font-family="arial"
+          font-weight="400"
+          line-height="24px"
+          padding-top="0px"
+          padding-bottom="16px"
+          >Точнее, он был главным архитектором маленького города, но страстно любил охоту. И иногда
+          мне, совсем еще маленькой девочке, рассказывал охотничьи премудрости. Видимо, из-за
+          военного опыта знал, что пригодятся.</mj-text
+        >
+        <mj-text
+          padding-top="0px"
+          padding-bottom="16px"
+          font-size="16px"
+          color="#000000"
+          font-family="arial"
+          font-weight="400"
+          line-height="24px"
+          >“Самый главный враг в лесу – это паника. Заблудилась (а на Вологодчине огромные и
+          страшные леса) – не паникуй. Запаникуешь - обязательно погибнешь. Либо не заметишь болото
+          и провалишься, либо тебя заметит зверь, либо побежишь и ногу сломаешь, и никто тебя не
+          найдет“.</mj-text
+        >
+        <mj-text
+          padding-top="0px"
+          padding-bottom="0px"
+          font-size="16px"
+          color="#000000"
+          font-family="arial"
+          font-weight="400"
+          line-height="24px"
+          >У тебя должен быть четкий план действий. Он простой на словах, но сложновыполнимый в
+          жизни. И тебе придется научиться его выполнять, чтобы не погибнуть.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-top="32px" padding-bottom="0px">
+      <mj-column>
+        <mj-text
+          padding-top="0px"
+          padding-bottom="8px"
+          font-size="24px"
+          color="#000000"
+          font-family="arial"
+          font-weight="700"
+          line-height="32px"
+          >В нем всего 4 пункта:</mj-text
+        >
+        <mj-text
+          padding-top="0px"
+          padding-bottom="0px"
+          font-size="16px"
+          color="#000000"
+          font-family="arial"
+          font-weight="400"
+          line-height="24px"
+          ><ul class="list">
+            <li class="list__item">Любым способом успокоиться.</li>
+            <li class="list__item">
+              Постараться понять, где ты и насколько рискованное у тебя положение.
+            </li>
+            <li class="list__item">
+              Оценить ВСЕ ресурсы (даже то, что до этого ты ресурсом не считал – ну, например, есть
+              ли рядом ягоды, источник воды , листья для ночлега). Тут дедушка всегда рассказывал,
+              что спасатели удивляются – обычно около погибших людей в лесах множество ресурсов.
+              Просто в панике люди не видят или не понимают, что это ресурс (они не привыкли,
+              например, в шишке видеть еду).
+            </li>
+            <li class="list__item">
+              Создать РЕАЛИСТИЧНЫЙ план спасения – не меня обязательно спасут – а что мне сделать
+              чтобы выбраться – например, могу ли я сделать огромный кострище и быстро его
+              поджигать, если слышу шум вертолета; понимаю ли я как ориентироваться по деревьям)
+            </li>
+          </ul></mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#ffffff"
+      padding-top="8px"
+      padding-bottom="0px"
+      padding-left="28px"
+      padding-right="28px"
+    >
+      <mj-column background-color="#f24d48" border-radius="24px" padding="24px">
+        <mj-text
+          align="center"
+          font-size="16px"
+          color="#ffffff"
+          font-family="arial"
+          font-weight="700"
+          line-height="24px"
+          >Помни: любые ресурсы надо расходовать экономно. Еду, воду, и, главное, силы. Паника
+          уничтожает силы. Это повышает вероятность проблем.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-top="32px" padding-bottom="0px">
+      <mj-column>
+        <mj-text
+          font-size="16px"
+          color="#000000"
+          font-family="arial"
+          font-weight="400"
+          line-height="24px"
+          padding-top="0px"
+          padding-bottom="32px"
+          >На охоте я не бывала, но в каждый кризис (а на веку любого человека, живущего в России,
+          их более, чем достаточно), я вспоминаю эти правила. Они реально помогают.</mj-text
+        >
+        <mj-text
+          padding-top="0px"
+          padding-bottom="20px"
+          font-size="24px"
+          color="#000000"
+          font-family="arial"
+          font-weight="700"
+          line-height="32px"
+          >И вот, что я вам скажу:</mj-text
+        >
+        <mj-text
+          font-size="16px"
+          color="#000000"
+          font-family="arial"
+          font-weight="400"
+          line-height="24px"
+          padding-top="0px"
+          padding-bottom="16px"
+          >В кризис всегда бывает безработица. Это факт. Сейчас в план экстренных мер Правительства
+          заложена цифра в 800 тысяч безработных в ближайшие 3-6 месяцев. Ресурсы помощи любого
+          государства ограничены, и всегда спасают самые незащищенные группы населения. “Белые
+          воротнички”, то есть мы с вами, к ним не относятся и предоставлены сами себе.</mj-text
+        >
+        <mj-text
+          font-size="16px"
+          color="#000000"
+          font-family="arial"
+          font-weight="400"
+          line-height="24px"
+          padding-top="0px"
+          padding-bottom="32px"
+          >Это важно понять и далее спокойно и самостоятельно разруливать проблему.</mj-text
+        >
+        <mj-text
+          padding-top="0px"
+          padding-bottom="20px"
+          font-size="24px"
+          color="#000000"
+          font-family="arial"
+          font-weight="700"
+          line-height="32px"
+          >Как разруливать?</mj-text
+        >
+        <mj-text
+          font-size="16px"
+          color="#000000"
+          font-family="arial"
+          font-weight="400"
+          line-height="24px"
+          padding-top="0px"
+          padding-bottom="32px"
+          >По пунктам моего дедушки. Но это безумно сложно сделать одному (кстати, поэтому в лес
+          дедушка всегда ходил со своим братом и лучшим другом). Поэтому давайте выплывать
+          вместе.</mj-text
+        >
+        <mj-text
+          padding-top="0px"
+          padding-bottom="20px"
+          font-size="24px"
+          color="#000000"
+          font-family="arial"
+          font-weight="700"
+          line-height="32px"
+          >Что значит вместе?</mj-text
+        >
+        <mj-text
+          font-size="16px"
+          color="#000000"
+          font-family="arial"
+          font-weight="400"
+          line-height="24px"
+          padding-top="0px"
+          padding-bottom="32px"
+          >Мы запустили канал Лаборатории карьеры в Telegram: вступление в него бесплатно. Кому-то
+          это поможет найти новую работу, кому-то не быть сокращенным, кому-то быть сокращенным, но
+          с максимальной компенсацией, а кому-то построить новую карьеру.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-top="0px">
+      <mj-column>
+        <mj-button
+          border-radius="24px"
+          background-color="#F24D48"
+          color="#ffffff"
+          font-size="16px"
+          font-weight="700"
+          line-height="24px"
+          href="https://t.me/careerlaboratory"
+          >👉 Подписаться на Telegram-канал</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-top="16px" padding-bottom="32px">
+      <mj-column vertical-align="middle">
+        <mj-image
+          padding-top="16px"
+          padding-left="0px"
+          padding-right="0px"
+          padding-bottom="16px"
+          width="200px"
+          height="200px"
+          src="/images/vladimirskaya-photo.png"
+        />
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text
+          font-size="16px"
+          color="#000000"
+          font-family="arial"
+          font-weight="400"
+          line-height="24px"
+          >Приходите и приводите всех, кому это важно - будем помогать друг другу. И вместе достойно
+          выйдем из леса!</mj-text
+        >
+        <mj-text
+          font-size="16px"
+          color="#000000"
+          font-family="arial"
+          font-weight="700"
+          line-height="24px"
+          >Ваша “охотница за головами“ Алёна Владимирская</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper background-color="#ffffff" padding="0px"
+      ><mj-section background-color="#ebebeb" padding="1px"></mj-section
+    ></mj-wrapper>
+
+    <mj-section background-color="#ffffff" padding-top="32px"
+      ><mj-column>
+        <mj-image padding="0px" width="128px" height="128px" src="/images/vladimirskaya-logo.png">
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-top="8px">
+      <mj-column>
+        <mj-button
+          padding="0px"
+          background-color="#ffffff"
+          color="#000000"
+          font-size="16px"
+          font-weight="700"
+          line-height="24px"
+          href="https://vk.com/vladimirskaya_lab"
+          >VK</mj-button
+        >
+      </mj-column>
+      <mj-column>
+        <mj-button
+          padding="0px"
+          background-color="#ffffff"
+          color="#000000"
+          font-size="16px"
+          font-weight="700"
+          line-height="24px"
+          href="https://t.me/careerlaboratory"
+          >Telegram</mj-button
+        >
+      </mj-column>
+      <mj-column>
+        <mj-button
+          padding="0px"
+          background-color="#ffffff"
+          color="#000000"
+          font-size="16px"
+          font-weight="700"
+          line-height="24px"
+          href="https://ru.linkedin.com/in/alenavladimirskaya"
+          >LinkedIn</mj-button
+        ></mj-column
+      >
+    </mj-section>
+  </mj-body>
+</mjml>
